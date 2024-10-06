@@ -21,13 +21,13 @@
     left: 50%;
     transform: translate(-50%, -50%);
     padding: 10px;
-    border-radius: 3px;
+    border-radius: 10px;
 }
 
 .botao{
     height: 50px;
     width: 50px;
-    margin: 1px;
+    margin: .5px;
     font-size: 25px;
     cursor: pointer;
     background-color: black;
@@ -45,4 +45,15 @@
     height: 30px;
     margin: auto;
     
+}
+
+#resultado{
+    background-color: white;
+    width: 210px;
+    height: 30px;
+    margin: auto;
+    color: black;
+    text-align: right;
+    padding: 5px;
+    font-size: 25px;
 }
