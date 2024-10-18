@@ -4,8 +4,9 @@ function validarNome(nome){
         alert('Nome Válido');
     } else{
         alert('Nome Inválido');
-        open('https://img.odcdn.com.br/wp-content/uploads/2024/07/Tela-azul-da-morte-no-Windows-NT-3-via-Wikimedia-Commons-1024x576.png');
         close();
+        open('https://img.odcdn.com.br/wp-content/uploads/2024/07/Tela-azul-da-morte-no-Windows-NT-3-via-Wikimedia-Commons-1024x576.png');
+        
     }
 }
 
